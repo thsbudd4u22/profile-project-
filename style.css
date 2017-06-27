@@ -1,0 +1,19 @@
+
+.iner{   
+    border-style: solid;
+    height: 200px;
+    background-color: green;
+    border-width: 5px;
+}
+.outer{
+    border-style: solid;
+    background-color: red;
+
+}
+
+.jumbotron{
+    background-image: url('./chillbackdrop.jpeg');
+    background-size: cover
+
+
+}
